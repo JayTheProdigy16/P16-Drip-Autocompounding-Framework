@@ -12,8 +12,9 @@ The bot uses Cron expression in order to determine the compounding frequency.  I
 Once you've modified the schedule to your liking simply save Config.json and start or restart the bot to load the new configuration.
 
 Join my Discord! https://discord.gg/agJBJ8eA9J
+Subscribe to my channel! https://www.youtube.com/channel/UC0ecqg1Re5QMj7iYofCLPAQ
 
-Feel free to make donations towards my supra =D 
+Feel free to make donations towards my supra =D (also my buddy address)
 0x4710F25d8eecC7Be969ed7A31745aA9c4eB2C919
 
 FAQ:
