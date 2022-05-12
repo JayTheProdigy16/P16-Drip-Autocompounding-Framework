@@ -1,5 +1,6 @@
 # P16 DACF V1.6
 Prodigy16 Drip Auto-Compounder Framework
+
 Basic Setup: Download the exe, then create a folder wherever named whatever. Move the exe to that folder and run it one time, it will generate a configuration file
 which you can edit by right clicking> Show more options(Only windows 11)> Open with Notepad. Run the bot again and it will begin functioning.
 By default the bot will compound once daily at 12:00am.
